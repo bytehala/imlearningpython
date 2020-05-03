@@ -14,7 +14,7 @@ print('this is {} {}'.format(var1, var2))
  ````
 
 Tuples
-I don't know much YET
+ - I don't know much YET
 
 Dictionaries
 - items
