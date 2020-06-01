@@ -10,5 +10,9 @@ product = 1
 for i in range(first, second+1):
     if i != 0:
         product *= i
+    if product < -500 or product > 500:
+        print('Exceeded')
+        break
+    
 
 print(product)
